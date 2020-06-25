@@ -1,0 +1,6 @@
+general:
+  name: cell-125
+  world: Prison
+  type: rent
+rent:
+  price: 2000.0

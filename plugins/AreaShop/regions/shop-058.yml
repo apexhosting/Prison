@@ -1,0 +1,6 @@
+general:
+  name: shop-058
+  world: Prison
+  type: rent
+rent:
+  price: 3000.0

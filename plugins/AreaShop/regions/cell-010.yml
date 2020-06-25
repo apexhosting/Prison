@@ -1,0 +1,6 @@
+general:
+  name: cell-010
+  world: Prison
+  type: rent
+rent:
+  price: 200.0

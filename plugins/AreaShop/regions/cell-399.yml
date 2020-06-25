@@ -1,0 +1,6 @@
+general:
+  name: cell-399
+  world: Prison
+  type: rent
+rent:
+  price: 12000.0

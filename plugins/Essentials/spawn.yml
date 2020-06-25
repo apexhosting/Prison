@@ -1,0 +1,22 @@
+spawns: 
+  default: 
+    world: Prison
+    x: 235.15198792033195
+    y: 71.0
+    z: -226.4574772753766
+    yaw: -267.90012
+    pitch: 7.6484427
+  defualt: 
+    world: Prison
+    x: 235.5
+    y: 71.0
+    z: -226.5
+    yaw: -271.35043
+    pitch: -0.30156088
+  blockone: 
+    world: Prison
+    x: 235.5
+    y: 71.0
+    z: -226.5
+    yaw: -271.35043
+    pitch: -0.30156088

@@ -1,0 +1,183 @@
+groups:
+  blockone:
+    options:
+      default: true
+      prefix: '&8[&fBlock 1&8] &7'
+    permissions:
+    - backpack.use
+    - backpack.size.1
+    - portal.blockone
+    - modifyworld.*
+    - shopguiplus.shops.*
+    - essentials.afk
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.ban.notify
+    - essentials.help
+    - essentials.helpop
+    - essentials.home
+    - essentials.ignore
+    - essentials.itemdb
+    - essentials.kick.notify
+    - essentials.kit
+    - essentials.kits.blockone
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.clear
+    - essentials.mail.send
+    - essentials.motd
+    - essentials.msg
+    - essentials.mute.notify
+    - essentials.pay
+    - essentials.ping
+    - essentials.realname
+    - essentials.rules
+    - essentials.seen
+    - essentials.showkit
+    - essentials.signs.use.disposal
+    - essentials.signs.use.free
+    - essentials.spawn
+    - essentials.suicide
+  blocktwo:
+    options:
+      default: false
+      prefix: '&8[&7Block 2&8] &7'
+    inheritance:
+    - blockone
+    permissions:
+    - modifyworld.*
+    - backpack.size.2
+    - portal.blocktwo
+    - jobs.max.3
+    - jobs.boost.all.money.5
+    - jobs.boost.all.exp.5
+    - essentials.sethome.multiple.Ranger
+  blockthree:
+    options:
+      default: false
+      prefix: '&8[&8Block 3&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    permissions:
+    - portal.blockthree
+    - modifyworld.*
+    - backpack.size.3
+    - jobs.max.4
+    - jobs.boost.all.money.10
+    - jobs.boost.all.exp.10
+    - essentials.sethome.multiple.Adventurer
+  blockfour:
+    options:
+      default: false
+      prefix: '&8[&dBlock 4&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    permissions:
+    - portal.blockfour
+    - modifyworld.*
+    - backpack.size.4
+    - jobs.max.4
+    - jobs.boost.all.money.10
+    - jobs.boost.all.exp.10
+    - essentials.sethome.multiple.Adventurer
+  blockfive:
+    options:
+      default: false
+      prefix: '&8[&dBlock 5&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    permissions:
+    - portal.blockfive
+    - backpack.size.5
+    - modifyworld.*
+    - jobs.max.4
+    - jobs.boost.all.money.10
+    - jobs.boost.all.exp.10
+    - essentials.sethome.multiple.Adventurer
+  blocksix:
+    options:
+      default: false
+      prefix: '&8[&9Block 6&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    - blockfive
+    permissions:
+    - cosmicvaults.pv.1
+    - portal.blocksix
+    - modifyworld.*
+    - jobs.max.4
+    - jobs.boost.all.money.10
+    - jobs.boost.all.exp.10
+    - essentials.sethome.multiple.Adventurer
+  blockseven:
+    options:
+      default: false
+      prefix: '&8[&2Block 7&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    - blockfive
+    - blocksix
+    permissions:
+    - cosmicvaults.pv.2
+    - portal.blockseven
+    - portal.blocksevenmine
+    - modifyworld.*
+    - jobs.max.4
+    - jobs.boost.all.money.10
+    - jobs.boost.all.exp.10
+    - essentials.sethome.multiple.Adventurer
+  blockeight:
+    options:
+      default: false
+      prefix: '&8[&6Block 8&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    - blockfive
+    - blocksix
+    - blockseven
+    permissions:
+    - cosmicvaults.pv.3
+    - portal.blockeight
+    - modifyworld.*
+    - jobs.max.4
+    - jobs.boost.all.money.10
+    - jobs.boost.all.exp.10
+    - essentials.sethome.multiple.Adventurer
+  blocknine:
+    options:
+      default: false
+      prefix: '&8[&4Block 9&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    - blockfive
+    - blocksix
+    - blockseven
+    - blockeight
+    permissions:
+    - cosmicvaults.pv.4
+    - portal.blocknine
+    - modifyworld.*
+    - jobs.max.4
+    - jobs.boost.all.money.10
+    - jobs.boost.all.exp.10
+    - essentials.sethome.multiple.Adventurer

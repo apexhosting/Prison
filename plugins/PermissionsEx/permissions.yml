@@ -1,0 +1,256 @@
+groups:
+  blockone:
+    options:
+      default: true
+      prefix: '&8[&fBlock 1&8] &7'
+    permissions:
+    - nte.b1
+    - cosmicvaults.amt.1
+    - cosmicvaults.cmd
+    - backpack.use
+    - chestshop.shop.*
+    - chestshop.shop.create.*
+    - essentials.kit
+    - essentials.kit.blockone
+    - ezblock.pickaxecounter
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warps.blockone
+    - essentials.warps.prison
+    - backpack.size.1
+    - portal.blockone
+    - modifyworld.*
+    - shopguiplus.shop
+    - shopguiplus.shops.redstone
+    - shopguiplus.shops.food
+    - shopguiplus.shops.tools
+    - shopguiplus.shops.ores
+    - shopguiplus.shops.farming
+    - shopguiplus.shops.blocks
+    - shopguiplus.shops.clay
+    - shopguiplus.shops.glass
+    - shopguiplus.shops.mobdrops
+    - essentials.afk
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.ban.notify
+    - essentials.help
+    - essentials.helpop
+    - essentials.home
+    - essentials.ignore
+    - essentials.itemdb
+    - essentials.kick.notify
+    - essentials.kit
+    - essentials.kits.blockone
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.clear
+    - essentials.mail.send
+    - essentials.motd
+    - essentials.msg
+    - essentials.mute.notify
+    - essentials.pay
+    - essentials.ping
+    - essentials.realname
+    - essentials.rules
+    - essentials.seen
+    - essentials.showkit
+    - essentials.signs.use.disposal
+    - essentials.signs.use.free
+    - essentials.spawn
+    - essentials.suicide
+  blocktwo:
+    options:
+      default: false
+      prefix: '&8[&7Block 2&8] &7'
+    inheritance:
+    - blockone
+    permissions:
+    - modifyworld.*
+    - nte.b2
+    - essentials.warps.blocktwo
+    - essentials.kits.blocktwo
+    - backpack.size.2
+    - portal.blocktwo
+  blockthree:
+    options:
+      default: false
+      prefix: '&8[&8Block 3&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    permissions:
+    - nte.b3
+    - portal.blockthree
+    - essentials.kits.blockthree
+    - essentials.warps.blockthree
+    - modifyworld.*
+    - backpack.size.3
+  blockfour:
+    options:
+      default: false
+      prefix: '&8[&dBlock 4&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    permissions:
+    - portal.blockfour
+    - nte.b4
+    - essentials.kits.blockfour
+    - essentials.warps.blockfour
+    - essentials.warps.blackmarket
+    - essentials.warps.bm
+    - modifyworld.*
+    - backpack.size.4
+  blockfive:
+    options:
+      default: false
+      prefix: '&8[&dBlock 5&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    permissions:
+    - portal.blockfive
+    - nte.b5
+    - essentials.kits.blockfive
+    - essentials.warps.blockfive
+    - backpack.size.5
+    - modifyworld.*
+  blocksix:
+    options:
+      default: false
+      prefix: '&8[&9Block 6&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    - blockfive
+    permissions:
+    - essentials.warps.blocksix
+    - cosmicvaults.pv.1
+    - nte.b6
+    - essentials.kits.blocksix
+    - portal.blocksix
+    - modifyworld.*
+  blockseven:
+    options:
+      default: false
+      prefix: '&8[&2Block 7&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    - blockfive
+    - blocksix
+    permissions:
+    - essentials.warps.blockseven
+    - nte.b7
+    - essentials.warps.blocksevenmine
+    - essentials.kits.blockseven
+    - cosmicvaults.pv.2
+    - portal.blockseven
+    - portal.blocksevenmine
+    - modifyworld.*
+  blockeight:
+    options:
+      default: false
+      prefix: '&8[&6Block 8&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    - blockfive
+    - blocksix
+    - blockseven
+    permissions:
+    - nte.b8
+    - essentials.warps.blockeight
+    - essentials.kits.blockeight
+    - essentials.warps.blockeightmine
+    - cosmicvaults.pv.3
+    - portal.blockeight
+    - modifyworld.*
+  blocknine:
+    options:
+      default: false
+      prefix: '&8[&4Block 9&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    - blockfive
+    - blocksix
+    - blockseven
+    - blockeight
+    permissions:
+    - nte.b9
+    - essentials.warps.blocknine
+    - essentials.warps.blockninemine
+    - cosmicvaults.pv.4
+    - essentials.kits.blocknine
+    - portal.blocknine
+    - modifyworld.*
+  Free:
+    options:
+      default: false
+      prefix: '&8[&dFree&8] &7'
+    inheritance:
+    - blockone
+    - blocktwo
+    - blockthree
+    - blockfour
+    - blockfive
+    - blocksix
+    - blockseven
+    - blockeight
+    - blocknine
+    permissions:
+    - essentials.warps.free
+    - cosmicvaults.pv.5
+    - portal.free
+    - nte.free
+    - modifyworld.*
+    - essentials.sethome
+    - essentials.sethome.multiple
+    - essentials.sethome.multiple.free
+  Admin:
+    permissions:
+    - '*'
+    options:
+      prefix: '&4&l[&cAdmin&4&l]&c'
+  Mod:
+    permissions:
+    - essentials.unban
+    - essentials.kick
+    - nte.mod
+    - essentials.tempban
+    - essentials.ban
+    - essentials.mute
+    options:
+      prefix: '&b&l[&3Mod&b&l]&3'
+schema-version: 1
+users:
+  c0a68af6-e4ee-4b2b-b6bd-4287d97f0755:
+    group:
+    - Admin
+    options:
+      name: robert_beckley
+  28bb290c-cce5-481c-b158-d7f9a042100d:
+    group:
+    - BlockTwo
+    options:
+      name: SpiderRobotMan
+  3716427e-76ac-4df4-a50a-706618a70f0c:
+    group:
+    - BlockNine
+    options:
+      name: Cory

@@ -1,0 +1,6 @@
+general:
+  name: shop-050
+  world: Prison
+  type: rent
+rent:
+  price: 2000.0

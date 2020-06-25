@@ -1,0 +1,6 @@
+general:
+  name: shop-084
+  world: Prison
+  type: rent
+rent:
+  price: 5000.0

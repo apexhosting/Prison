@@ -1,0 +1,6 @@
+general:
+  name: cell-394
+  world: Prison
+  type: rent
+rent:
+  price: 12000.0

@@ -1,0 +1,6 @@
+general:
+  name: cell-335
+  world: Prison
+  type: rent
+rent:
+  price: 6000.0

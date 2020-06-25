@@ -1,0 +1,298 @@
+# 
+#  ExamplePortal:
+#    world: it will be the world name
+#    triggerblock: LAVA # will only be used if the hastriggerblock is true and can be id or text
+#    pos1: # dont mess with the data here, if you do it may stop the portal from working.
+#      X:
+#      Y:
+#      Z:
+#    pos2:
+#      X:
+#      Y:
+#      Z:
+#    destination:
+#      issetpoint: true # if this was false point name would not be used and the coordinates would be saved here, it just adds more customisation.
+#      pointname: examplepoint # if issetpoint is false this wont be here and tppos will be.
+#      tppos:
+#        X:
+#        Y:
+#        Z:
+
+blockonebus:
+  world: Prison
+  triggerblock: AIR
+  destination: blockone
+  pos1:
+    X: 192
+    Y: 67
+    Z: -206
+  pos2:
+    X: 190
+    Y: 67
+    Z: -208
+  portalArgs:
+    permission: portal.blockone
+blockfour:
+  world: Prison
+  triggerblock: AIR
+  destination: blockfour
+  pos1:
+    X: 192
+    Y: 67
+    Z: -221
+  pos2:
+    X: 190
+    Y: 67
+    Z: -223
+  portalArgs:
+    permission: portal.blockfour
+blockfive:
+  world: Prison
+  triggerblock: AIR
+  destination: blockfive
+  pos1:
+    X: 192
+    Y: 67
+    Z: -226
+  pos2:
+    X: 190
+    Y: 67
+    Z: -228
+  portalArgs:
+    permission: portal.blockfive
+blocksix:
+  world: Prison
+  triggerblock: AIR
+  destination: blocksix
+  pos1:
+    X: 192
+    Y: 67
+    Z: -231
+  pos2:
+    X: 190
+    Y: 67
+    Z: -233
+  portalArgs:
+    permission: portal.blocksix
+blocktwo:
+  world: Prison
+  triggerblock: AIR
+  destination: blocktwo
+  pos1:
+    X: 192
+    Y: 67
+    Z: -211
+  pos2:
+    X: 190
+    Y: 67
+    Z: -213
+  portalArgs:
+    permission: portal.blocktwo
+blockthree:
+  world: Prison
+  triggerblock: AIR
+  destination: blockthree
+  pos1:
+    X: 192
+    Y: 67
+    Z: -216
+  pos2:
+    X: 190
+    Y: 67
+    Z: -218
+  portalArgs:
+    permission: portal.blockthree
+blockseven:
+  world: Prison
+  triggerblock: AIR
+  destination: blockseven
+  pos1:
+    X: 192
+    Y: 67
+    Z: -236
+  pos2:
+    X: 190
+    Y: 67
+    Z: -238
+  portalArgs:
+    permission: portal.blockseven
+blockeight:
+  world: Prison
+  triggerblock: AIR
+  destination: blockeight
+  pos1:
+    X: 192
+    Y: 67
+    Z: -241
+  pos2:
+    X: 190
+    Y: 67
+    Z: -243
+  portalArgs:
+    permission: portal.blockeight
+blocknine:
+  world: Prison
+  triggerblock: AIR
+  destination: blocknine
+  pos1:
+    X: 192
+    Y: 67
+    Z: -246
+  pos2:
+    X: 190
+    Y: 67
+    Z: -248
+  portalArgs:
+    permission: portal.blocknine
+blocksevenmineral:
+  world: Prison
+  triggerblock: AIR
+  destination: blocksevenmine
+  pos1:
+    X: 8
+    Y: 96
+    Z: -240
+  pos2:
+    X: 8
+    Y: 92
+    Z: -244
+  portalArgs:
+    permission: portal.blocksevenmine
+blocksevenmineral1:
+  world: Prison
+  triggerblock: AIR
+  destination: blocksevenmine
+  pos1:
+    X: 12
+    Y: 96
+    Z: -114
+  pos2:
+    X: 12
+    Y: 92
+    Z: -118
+  portalArgs:
+    permission: portal.blocksevenmine
+blockeightmine:
+  world: Prison
+  triggerblock: AIR
+  destination: blockeightmine
+  pos1:
+    X: 26
+    Y: 103
+    Z: -160
+  pos2:
+    X: 23
+    Y: 101
+    Z: -160
+  portalArgs:
+    permission: portal.blockeight
+blockeightmine1:
+  world: Prison
+  triggerblock: AIR
+  destination: blockeightmine
+  pos1:
+    X: -3
+    Y: 103
+    Z: -160
+  pos2:
+    X: -6
+    Y: 101
+    Z: -160
+  portalArgs:
+    permission: portal.blockeight
+blockeightmine2:
+  world: Prison
+  triggerblock: AIR
+  destination: blockeightmine
+  pos1:
+    X: -3
+    Y: 103
+    Z: -198
+  pos2:
+    X: -6
+    Y: 101
+    Z: -198
+  portalArgs:
+    permission: portal.blockeight
+blockeightmine3:
+  world: Prison
+  triggerblock: AIR
+  destination: blockeightmine
+  pos1:
+    X: 26
+    Y: 103
+    Z: -198
+  pos2:
+    X: 23
+    Y: 101
+    Z: -198
+  portalArgs:
+    permission: portal.blockeight
+blockninemine:
+  world: Prison
+  triggerblock: AIR
+  destination: blockninemine
+  pos1:
+    X: 3
+    Y: 113
+    Z: -140
+  pos2:
+    X: 3
+    Y: 110
+    Z: -142
+  portalArgs:
+    permission: portal.blocknine
+blockninemine1:
+  world: Prison
+  triggerblock: AIR
+  destination: blockninemine
+  pos1:
+    X: 17
+    Y: 113
+    Z: -140
+  pos2:
+    X: 17
+    Y: 110
+    Z: -142
+  portalArgs:
+    permission: portal.blocknine
+blockninemine2:
+  world: Prison
+  triggerblock: AIR
+  destination: blockninemine
+  pos1:
+    X: 3
+    Y: 113
+    Z: -216
+  pos2:
+    X: 3
+    Y: 110
+    Z: -218
+  portalArgs:
+    permission: portal.blocknine
+blockninemine3:
+  world: Prison
+  triggerblock: AIR
+  destination: blockninemine
+  pos1:
+    X: 17
+    Y: 113
+    Z: -216
+  pos2:
+    X: 17
+    Y: 110
+    Z: -218
+  portalArgs:
+    permission: portal.blocknine
+free:
+  world: Prison
+  triggerblock: AIR
+  destination: plots
+  pos1:
+    X: -38
+    Y: 118
+    Z: -178
+  pos2:
+    X: -38
+    Y: 116
+    Z: -180

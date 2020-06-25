@@ -1,0 +1,6 @@
+general:
+  name: cell-401
+  world: Prison
+  type: rent
+rent:
+  price: 12000.0

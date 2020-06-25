@@ -1,0 +1,6 @@
+general:
+  name: cell-141
+  world: Prison
+  type: rent
+rent:
+  price: 2000.0

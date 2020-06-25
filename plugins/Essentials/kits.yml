@@ -1,0 +1,111 @@
+# EssentialsX new Kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - itemID[:DataValue/Durability] Amount [Enchantment:Level].. [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  blockone:
+    delay: 86400
+    items:
+      - chainmail_helmet 1
+      - chainmail_chestplate 1
+      - chainmail_leggings 1
+      - chainmail_boots 1
+      - iron_sword 1
+      - cooked_beef 32
+      - iron_pickaxe 1
+  blocktwo:
+    delay: 86400
+    items:
+      - chainmail_helmet 1 durability:2
+      - chainmail_chestplate 1 durability:2
+      - chainmail_leggings 1 durability:2
+      - chainmail_boots 1 durability:2
+      - iron_sword 1 sharpness:1
+      - cooked_beef 32
+      - iron_pickaxe 1 durability:2 efficiency:2
+  blockthree:
+    delay: 172800
+    items:
+      - iron_helmet 1 durability:1
+      - iron_chestplate 1 durability:1
+      - iron_leggings 1 durability:1
+      - iron_boots 1 durability:1 
+      - iron_sword 1 sharpness:2 fireaspect:1
+      - cooked_beef 32
+      - iron_pickaxe 1 durability:3 efficiency:3
+  blockfour:
+    delay: 259200
+    items:
+      - iron_helmet 1 durability:2 protection:2
+      - iron_chestplate 1 durability:2 protection:2
+      - iron_leggings 1 durability:2 protection:2
+      - iron_boots 1 durability:2 protection:2
+      - iron_sword 1 sharpness:2 fireaspect:1
+      - cooked_beef 32
+      - iron_pickaxe 1 durability:4 efficiency:4 fortune:2
+  blockfive:
+    delay: 259200
+    items:
+      - diamond_helmet 1 durability:1 protection:1
+      - diamond_chestplate 1 durability:1 protection:1
+      - diamond_leggings 1 durability:1 protection:1
+      - diamond_boots 1 durability:1 protection:1
+      - diamond_sword 1 sharpness:2 fireaspect:1
+      - cooked_beef 32
+      - diamond_pickaxe 1 durability:2 efficiency:2 fortune:1
+  blocksix:
+    delay: 432000
+    items:
+      - diamond_helmet 1 durability:2 protection:2
+      - diamond_chestplate 1 durability:2 protection:2
+      - diamond_leggings 1 durability:2 protection:2
+      - diamond_boots 1 durability:2 protection:2
+      - diamond_sword 1 sharpness:3 fireaspect:1
+      - cooked_beef 32
+      - diamond_pickaxe 1 durability:3 efficiency:3 fortune:1
+  blockseven:
+    delay: 432000
+    items:
+      - diamond_helmet 1 durability:3 protection:3
+      - diamond_chestplate 1 durability:3 protection:3
+      - diamond_leggings 1 durability:3 protection:3
+      - diamond_boots 1 durability:3 protection:3
+      - diamond_sword 1 sharpness:3 fireaspect:2
+      - cooked_beef 32
+      - diamond_pickaxe 1 durability:3 efficiency:3 fortune:1
+  blockeight:
+    delay: 604800
+    items:
+      - diamond_helmet 1 durability:3 protection:3
+      - diamond_chestplate 1 durability:3 protection:3
+      - diamond_leggings 1 durability:3 protection:3
+      - diamond_boots 1 durability:3 protection:3
+      - diamond_sword 1 sharpness:4 fireaspect:2
+      - cooked_beef 32
+      - diamond_pickaxe 1 durability:4 efficiency:4 fortune:2
+  blocknine:
+    delay: 604800
+    items:
+      - diamond_helmet 1 durability:4 protection:4
+      - diamond_chestplate 1 durability:4 protection:4
+      - diamond_leggings 1 durability:4 protection:4
+      - diamond_boots 1 durability:4 protection:4
+      - diamond_sword 1 sharpness:4 fireaspect:2
+      - cooked_beef 32
+      - diamond_pickaxe 1 durability:4 efficiency:4 fortune:3
+  free:
+    delay: 86400
+    items:
+      - chainmail_helmet 1
+      - chainmail_chestplate 1
+      - chainmail_leggings 1
+      - chainmail_boots 1
+      - iron_sword 1
+      - cooked_beef 32
+      - iron_pickaxe 1

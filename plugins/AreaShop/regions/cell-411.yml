@@ -1,0 +1,6 @@
+general:
+  name: cell-411
+  world: Prison
+  type: rent
+rent:
+  price: 10000.0

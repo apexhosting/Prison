@@ -1,0 +1,6 @@
+general:
+  name: cell-246
+  world: Prison
+  type: rent
+rent:
+  price: 4000.0

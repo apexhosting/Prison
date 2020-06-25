@@ -1,0 +1,6 @@
+general:
+  name: shop-059
+  world: Prison
+  type: rent
+rent:
+  price: 3000.0

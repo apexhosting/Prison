@@ -1,0 +1,6 @@
+general:
+  name: cell-048
+  world: Prison
+  type: rent
+rent:
+  price: 500.0

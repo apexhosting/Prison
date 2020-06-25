@@ -1,0 +1,6 @@
+general:
+  name: shop-042
+  world: Prison
+  type: rent
+rent:
+  price: 500.0

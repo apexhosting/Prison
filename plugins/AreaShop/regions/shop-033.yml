@@ -1,0 +1,6 @@
+general:
+  name: shop-033
+  world: Prison
+  type: rent
+rent:
+  price: 500.0

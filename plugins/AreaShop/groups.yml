@@ -1,0 +1,806 @@
+block1level1left:
+  name: block1level1left
+  priority: 0
+  regions:
+  - cell-001
+  - cell-002
+  - cell-003
+  - cell-004
+  - cell-005
+  - cell-006
+block1level1right:
+  name: block1level1right
+  priority: 0
+  regions:
+  - cell-007
+  - cell-008
+  - cell-009
+  - cell-010
+  - cell-011
+  - cell-012
+block1level2left:
+  name: block1level2left
+  priority: 0
+  regions:
+  - cell-013
+  - cell-014
+  - cell-015
+  - cell-016
+  - cell-017
+  - cell-018
+  - cell-019
+block1level2right:
+  name: block1level2right
+  priority: 0
+  regions:
+  - cell-020
+  - cell-021
+  - cell-022
+  - cell-023
+  - cell-024
+  - cell-025
+  - cell-026
+block2level1left:
+  name: block2level1left
+  priority: 0
+  regions:
+  - cell-039
+  - cell-040
+  - cell-041
+  - cell-042
+  - cell-043
+  - cell-044
+block2level1right:
+  name: block2level1right
+  priority: 0
+  regions:
+  - cell-045
+  - cell-046
+  - cell-047
+  - cell-048
+  - cell-049
+  - cell-050
+block2level2left:
+  name: block2level2left
+  priority: 0
+  regions:
+  - cell-051
+  - cell-052
+  - cell-053
+  - cell-054
+  - cell-055
+  - cell-056
+  - cell-057
+block2level2right:
+  name: block2level2right
+  priority: 0
+  regions:
+  - cell-058
+  - cell-059
+  - cell-060
+  - cell-061
+  - cell-062
+  - cell-063
+  - cell-064
+block3level1leftin:
+  name: block3level1leftin
+  priority: 0
+  regions:
+  - cell-065
+  - cell-066
+  - cell-067
+  - cell-068
+  - cell-069
+block3level1leftout:
+  name: block3level1leftout
+  priority: 0
+  regions:
+  - cell-080
+  - cell-081
+  - cell-082
+  - cell-083
+block3level1rightin:
+  name: block3level1rightin
+  priority: 0
+  regions:
+  - cell-084
+  - cell-085
+  - cell-086
+  - cell-087
+  - cell-088
+  - cell-089
+block3level1rightout:
+  name: block3level1rightout
+  priority: 0
+  regions:
+  - cell-090
+  - cell-091
+  - cell-092
+  - cell-093
+  - cell-094
+  - cell-095
+block3level2right:
+  name: block3level2right
+  priority: 0
+  regions:
+  - cell-096
+  - cell-097
+  - cell-098
+  - cell-099
+  - cell-100
+  - cell-101
+  - cell-102
+  - cell-103
+block3level2left:
+  name: block3level2left
+  priority: 0
+  regions:
+  - cell-104
+  - cell-105
+  - cell-106
+  - cell-107
+  - cell-108
+  - cell-109
+  - cell-110
+  - cell-111
+block4level1left:
+  name: block4level1left
+  priority: 0
+  regions:
+  - cell-117
+  - cell-118
+  - cell-119
+  - cell-120
+  - cell-121
+block4level0right:
+  name: block4level0right
+  priority: 0
+  regions:
+  - cell-122
+  - cell-123
+  - cell-124
+  - cell-125
+  - cell-126
+block4level0right2:
+  name: block4level0right2
+  priority: 0
+  regions:
+  - cell-127
+  - cell-128
+  - cell-129
+  - cell-130
+block4level1right:
+  name: block4level1right
+  priority: 0
+  regions:
+  - cell-131
+  - cell-132
+  - cell-133
+  - cell-134
+  - cell-135
+block4level0left:
+  name: block4level0left
+  priority: 0
+  regions:
+  - cell-136
+  - cell-137
+  - cell-138
+  - cell-139
+  - cell-140
+block4level0left2:
+  name: block4level0left2
+  priority: 0
+  regions:
+  - cell-141
+  - cell-142
+  - cell-143
+  - cell-144
+block5level1left:
+  name: block5level1left
+  priority: 0
+  regions:
+  - cell-145
+  - cell-146
+  - cell-147
+  - cell-148
+  - cell-149
+  - cell-150
+block5level1left2:
+  name: block5level1left2
+  priority: 0
+  regions:
+  - cell-151
+  - cell-152
+  - cell-153
+  - cell-154
+  - cell-155
+  - cell-156
+  - cell-157
+block5level1right:
+  name: block5level1right
+  priority: 0
+  regions:
+  - cell-158
+  - cell-159
+  - cell-160
+  - cell-161
+  - cell-162
+  - cell-163
+block5level1leftleft:
+  name: block5level1leftleft
+  priority: 0
+  regions:
+  - cell-164
+  - cell-165
+  - cell-166
+  - cell-167
+block5level1leftleft2:
+  name: block5level1leftleft2
+  priority: 0
+  regions:
+  - cell-168
+  - cell-169
+block5level1leftleftright:
+  name: block5level1leftleftright
+  priority: 0
+  regions:
+  - cell-170
+  - cell-171
+  - cell-172
+  - cell-173
+block5level1leftleftright2:
+  name: block5level1leftleftright2
+  priority: 0
+  regions:
+  - cell-174
+  - cell-175
+block5level1leftfarleft:
+  name: block5level1leftfarleft
+  priority: 0
+  regions:
+  - cell-176
+  - cell-177
+  - cell-178
+  - cell-179
+block5level1leftfarleft2:
+  name: block5level1leftfarleft2
+  priority: 0
+  regions:
+  - cell-180
+  - cell-181
+block5level1leftfarright:
+  name: block5level1leftfarright
+  priority: 0
+  regions:
+  - cell-182
+  - cell-183
+  - cell-184
+  - cell-185
+block5level1leftfarright2:
+  name: block5level1leftfarright2
+  priority: 0
+  regions:
+  - cell-186
+  - cell-187
+block5level1rightright:
+  name: block5level1rightright
+  priority: 0
+  regions:
+  - cell-188
+  - cell-189
+  - cell-190
+  - cell-191
+block5level1rightright2:
+  name: block5level1rightright2
+  priority: 0
+  regions:
+  - cell-192
+  - cell-193
+block5level1rightrightleft:
+  name: block5level1rightrightleft
+  priority: 0
+  regions:
+  - cell-194
+  - cell-195
+  - cell-196
+  - cell-197
+block5level1rightrightleft2:
+  name: block5level1rightrightleft2
+  priority: 0
+  regions:
+  - cell-198
+  - cell-199
+block5level1farrightright:
+  name: block5level1farrightright
+  priority: 0
+  regions:
+  - cell-200
+  - cell-201
+  - cell-202
+  - cell-203
+block5level1farrightright2:
+  name: block5level1farrightright2
+  priority: 0
+  regions:
+  - cell-204
+  - cell-205
+block5level1farrightleft:
+  name: block5level1farrightleft
+  priority: 0
+  regions:
+  - cell-206
+  - cell-207
+  - cell-208
+  - cell-209
+block5level1farrightleft2:
+  name: block5level1farrightleft2
+  priority: 0
+  regions:
+  - cell-210
+  - cell-211
+block6level1left:
+  name: block6level1left
+  priority: 0
+  regions:
+  - cell-212
+  - cell-213
+  - cell-214
+  - cell-215
+  - cell-216
+  - cell-217
+block6level1leftleft:
+  name: block6level1leftleft
+  priority: 0
+  regions:
+  - cell-218
+  - cell-219
+  - cell-220
+  - cell-221
+  - cell-222
+  - cell-223
+block6level1leftleft1:
+  name: block6level1leftleft1
+  priority: 0
+  regions:
+  - cell-224
+  - cell-225
+  - cell-226
+  - cell-227
+  - cell-228
+  - cell-229
+block6level1left1:
+  name: block6level1left1
+  priority: 0
+  regions:
+  - cell-230
+  - cell-231
+  - cell-232
+  - cell-233
+  - cell-234
+  - cell-235
+block6level1leftleftleft:
+  name: block6level1leftleftleft
+  priority: 0
+  regions:
+  - cell-236
+  - cell-237
+  - cell-238
+  - cell-239
+  - cell-240
+  - cell-241
+block6level1leftleftright:
+  name: block6level1leftleftright
+  priority: 0
+  regions:
+  - cell-242
+  - cell-243
+  - cell-244
+  - cell-245
+  - cell-246
+  - cell-247
+block6level1right:
+  name: block6level1right
+  priority: 0
+  regions:
+  - cell-248
+  - cell-249
+  - cell-250
+  - cell-251
+  - cell-252
+  - cell-253
+block6level1right1:
+  name: block6level1right1
+  priority: 0
+  regions:
+  - cell-254
+  - cell-255
+  - cell-256
+  - cell-257
+  - cell-258
+  - cell-259
+block6level1rightright:
+  name: block6level1rightright
+  priority: 0
+  regions:
+  - cell-260
+  - cell-261
+  - cell-262
+  - cell-263
+  - cell-264
+  - cell-265
+block6level1rightright1:
+  name: block6level1rightright1
+  priority: 0
+  regions:
+  - cell-266
+  - cell-267
+  - cell-268
+  - cell-269
+  - cell-270
+  - cell-271
+block6level1rightrightright:
+  name: block6level1rightrightright
+  priority: 0
+  regions:
+  - cell-272
+  - cell-273
+  - cell-274
+  - cell-275
+  - cell-276
+  - cell-277
+block6level1rightrightright1:
+  name: block6level1rightrightright1
+  priority: 0
+  regions:
+  - cell-278
+  - cell-279
+  - cell-280
+  - cell-281
+  - cell-282
+  - cell-283
+block6level1rightrightright2:
+  name: block6level1rightrightright2
+  priority: 0
+  regions:
+  - cell-284
+  - cell-285
+  - cell-286
+  - cell-287
+  - cell-288
+  - cell-289
+block6level1rightrightright3:
+  name: block6level1rightrightright3
+  priority: 0
+  regions:
+  - cell-290
+  - cell-291
+  - cell-292
+  - cell-293
+  - cell-294
+  - cell-295
+block6level1rightright2:
+  name: block6level1rightright2
+  priority: 0
+  regions:
+  - cell-296
+  - cell-297
+  - cell-298
+  - cell-299
+  - cell-300
+  - cell-301
+block6level1rightright3:
+  name: block6level1rightright3
+  priority: 0
+  regions:
+  - cell-302
+  - cell-303
+  - cell-304
+  - cell-305
+  - cell-306
+  - cell-307
+block6level1leftleft3:
+  name: block6level1leftleft3
+  priority: 0
+  regions:
+  - cell-308
+  - cell-309
+  - cell-310
+  - cell-311
+  - cell-312
+  - cell-313
+block6level1leftleft4:
+  name: block6level1leftleft4
+  priority: 0
+  regions:
+  - cell-314
+  - cell-315
+  - cell-316
+  - cell-317
+  - cell-318
+  - cell-319
+block6level1leftleftleft3:
+  name: block6level1leftleftleft3
+  priority: 0
+  regions:
+  - cell-320
+  - cell-321
+  - cell-322
+  - cell-323
+  - cell-324
+  - cell-325
+block6level1leftleftleft4:
+  name: block6level1leftleftleft4
+  priority: 0
+  regions:
+  - cell-326
+  - cell-327
+  - cell-328
+  - cell-329
+  - cell-330
+  - cell-331
+block7left:
+  name: block7left
+  priority: 0
+  regions:
+  - cell-332
+  - cell-333
+  - cell-334
+  - cell-335
+block7right:
+  name: block7right
+  priority: 0
+  regions:
+  - cell-336
+  - cell-337
+block7leftleft:
+  name: block7leftleft
+  priority: 0
+  regions:
+  - cell-338
+  - cell-339
+  - cell-340
+  - cell-341
+  - cell-342
+  - cell-343
+  - cell-344
+block7rightright:
+  name: block7rightright
+  priority: 0
+  regions:
+  - cell-345
+  - cell-346
+  - cell-347
+  - cell-348
+  - cell-349
+  - cell-350
+  - cell-351
+  - cell-352
+  - cell-353
+  - cell-354
+  - cell-355
+  - cell-356
+  - cell-357
+  - cell-358
+  - cell-359
+  - cell-360
+  - cell-361
+  - cell-362
+  - cell-363
+  - cell-364
+block8left:
+  name: block8left
+  priority: 0
+  regions:
+  - cell-365
+  - cell-366
+  - cell-367
+  - cell-368
+  - cell-369
+  - cell-370
+  - cell-380
+  - cell-381
+  - cell-382
+  - cell-386
+  - cell-387
+  - cell-388
+block8right:
+  name: block8right
+  priority: 0
+  regions:
+  - cell-371
+  - cell-372
+  - cell-373
+  - cell-374
+  - cell-375
+  - cell-376
+  - cell-377
+  - cell-378
+  - cell-379
+  - cell-383
+  - cell-384
+  - cell-385
+block9:
+  name: block9
+  priority: 0
+  regions:
+  - cell-390
+  - cell-393
+  - cell-394
+  - cell-395
+  - cell-396
+  - cell-397
+  - cell-398
+  - cell-399
+  - cell-400
+  - cell-401
+  - cell-402
+  - cell-403
+  - cell-404
+  - cell-405
+  - cell-406
+  - cell-407
+  - cell-408
+  - cell-409
+  - cell-410
+  - cell-411
+  - cell-412
+  - cell-413
+  - cell-414
+  - cell-415
+playershops:
+  name: playershops
+  priority: 0
+  regions:
+  - shop-001
+  - shop-002
+  - shop-003
+  - shop-004
+  - shop-005
+  - shop-006
+  - shop-007
+  - shop-008
+  - shop-009
+  - shop-010
+  - shop-011
+  - shop-012
+  - shop-013
+  - shop-121
+smallshops:
+  name: smallshops
+  priority: 0
+  regions:
+  - shop-014
+  - shop-015
+  - shop-016
+  - shop-017
+  - shop-018
+  - shop-019
+  - shop-020
+  - shop-021
+  - shop-022
+  - shop-023
+  - shop-024
+  - shop-025
+  - shop-026
+  - shop-027
+  - shop-028
+  - shop-029
+  - shop-030
+  - shop-031
+mediumshops:
+  name: mediumshops
+  priority: 0
+  regions:
+  - shop-032
+  - shop-033
+  - shop-034
+  - shop-035
+  - shop-036
+  - shop-037
+  - shop-038
+  - shop-039
+  - shop-040
+  - shop-041
+  - shop-042
+block5shops:
+  name: block5shops
+  priority: 0
+  regions:
+  - shop-043
+  - shop-044
+  - shop-045
+  - shop-046
+  - shop-047
+  - shop-048
+  - shop-049
+  - shop-050
+  - shop-051
+  - shop-052
+  - shop-053
+  - shop-054
+  - shop-055
+  - shop-056
+block6shops:
+  name: block6shops
+  priority: 0
+  regions:
+  - shop-057
+  - shop-058
+  - shop-059
+  - shop-060
+  - shop-061
+  - shop-062
+  - shop-063
+  - shop-064
+  - shop-065
+  - shop-066
+  - shop-067
+  - shop-068
+  - shop-069
+  - shop-070
+  - shop-071
+  - shop-072
+block7shops:
+  name: block7shops
+  priority: 0
+  regions:
+  - shop-073
+  - shop-074
+  - shop-075
+  - shop-076
+  - shop-077
+  - shop-078
+  - shop-079
+  - shop-080
+block8shops:
+  name: block8shops
+  priority: 0
+  regions:
+  - shop-081
+  - shop-082
+  - shop-083
+  - shop-084
+  - shop-085
+  - shop-086
+  - shop-087
+  - shop-088
+  - shop-089
+  - shop-090
+  - shop-091
+  - shop-092
+  - shop-093
+  - shop-094
+  - shop-095
+  - shop-096
+  - shop-097
+  - shop-098
+  - shop-099
+  - shop-100
+  - shop-101
+block9shops:
+  name: block9shops
+  priority: 0
+  regions:
+  - shop-102
+  - shop-103
+  - shop-104
+  - shop-105
+  - shop-106
+  - shop-107
+  - shop-108
+  - shop-109
+  - shop-110
+  - shop-111
+block3shops:
+  name: block3shops
+  priority: 0
+  regions:
+  - shop-112
+  - shop-113
+  - shop-114
+  - shop-115
+  - shop-116
+  - shop-117
+  - shop-118
+  - shop-119
+  - shop-120

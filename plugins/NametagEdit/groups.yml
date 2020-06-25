@@ -1,0 +1,62 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '&4&l[&cAdmin&4&l]&c'
+    Suffix: '&f'
+    SortPriority: 1
+  Mod:
+    Permission: nte.mod
+    Prefix: '&b&l[&3Mod&b&l]&3'
+    Suffix: '&f'
+    SortPriority: 2
+  Free:
+    Permission: nte.free
+    Prefix: '&8[&4Block 9&8] &7'
+    Suffix: '&f'
+    SortPriority: 3
+  Block9:
+    Permission: nte.b9
+    Prefix: '&8[&4Block 9&8] &7'
+    Suffix: '&f'
+    SortPriority: 4
+  Block8:
+    Permission: nte.b8
+    Prefix: '&8[&6Block 8&8] &7'
+    Suffix: '&f'
+    SortPriority: 5
+  Block7:
+    Permission: nte.b7
+    Prefix: '&8[&2Block 7&8] &7'
+    Suffix: '&f'
+    SortPriority: 6
+  Block6:
+    Permission: nte.b6
+    Prefix: '&8[&9Block 6&8] &7'
+    Suffix: '&f'
+    SortPriority: 7
+  Block5:
+    Permission: nte.b5
+    Prefix: '&8[&9Block 5&8] &7'
+    Suffix: '&f'
+    SortPriority: 8
+  Block4:
+    Permission: nte.b4
+    Prefix: '&8[&9Block 4&8] &7'
+    Suffix: '&f'
+    SortPriority: 9
+  Block3:
+    Permission: nte.b3
+    Prefix: '&8[&9Block 3&8] &7'
+    Suffix: '&f'
+    SortPriority: 10
+  Block2:
+    Permission: nte.b2
+    Prefix: '&8[&7Block 2&8] &7'
+    Suffix: '&f'
+    SortPriority: 11
+  Block1:
+    Permission: nte.b1
+    Prefix: '&8[&fBlock 1&8] &7'
+    Suffix: '&f'
+    SortPriority: 12
+

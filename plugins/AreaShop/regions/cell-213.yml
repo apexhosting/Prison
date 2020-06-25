@@ -1,0 +1,6 @@
+general:
+  name: cell-213
+  world: Prison
+  type: rent
+rent:
+  price: 4000.0

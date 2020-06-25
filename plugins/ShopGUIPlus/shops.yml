@@ -1,0 +1,1709 @@
+shops:
+  redstone:
+    name: "Redstone Shop"
+    items:
+      3:
+        type: item
+        item:
+          material: TNT
+          quantity: 16
+        buyPrice: 700
+        sellPrice: 75
+        slot: 2
+      4:
+        type: item
+        item:
+          material: REDSTONE_LAMP_OFF
+          quantity: 8
+        buyPrice: 254
+        sellPrice: 10
+        slot: 3
+      5:
+        type: item
+        item:
+          material: HOPPER
+          quantity: 1
+        buyPrice: 700
+        sellPrice: 50
+        slot: 4
+      6:
+        type: item
+        item:
+          material: PISTON_STICKY_BASE
+          quantity: 8
+        buyPrice: 300
+        sellPrice: -1
+        slot: 5
+      7:
+        type: item
+        item:
+          material: PISTON_BASE
+          quantity: 8
+        buyPrice: 250
+        sellPrice: -1
+        slot: 6
+      8:
+        type: item
+        item:
+          material: DISPENSER
+          quantity: 8
+        buyPrice: 200
+        sellPrice: -1
+        slot: 7
+      9:
+        type: item
+        item:
+          material: DROPPER
+          quantity: 8
+        buyPrice: 250
+        sellPrice: -1
+        slot: 8
+      10:
+        type: item
+        item:
+          material: DIODE
+          quantity: 8
+        buyPrice: 350
+        sellPrice: -1
+        slot: 9
+      11:
+        type: item
+        item:
+          material: REDSTONE_COMPARATOR
+          quantity: 8
+        buyPrice: 300
+        sellPrice: -1
+        slot: 10
+      12:
+        type: item
+        item:
+          material: TRIPWIRE_HOOK
+          quantity: 4
+        buyPrice: 100
+        sellPrice: -1
+        slot: 11
+      13:
+        type: item
+        item:
+          material: DAYLIGHT_DETECTOR
+          quantity: 1
+        buyPrice: 500
+        sellPrice: -1
+        slot: 0
+      14:
+        type: item
+        item:
+          material: TRAP_DOOR
+          quantity: 16
+        buyPrice: 250
+        sellPrice: -1
+        slot: 1
+      15:
+        type: item
+        item:
+          material: LAVA_BUCKET
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+        slot: 12
+      16:
+        type: item
+        item:
+          material: WATER_BUCKET
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+        slot: 13
+  food:
+    name: "Food"
+    size: 36
+    buttons:
+      goBack:
+        slot: 31
+      previousPage:
+        slot: 30
+      nextPage:
+        slot: 32
+    items:
+      1:
+        type: item
+        item:
+          material: MELON
+          quantity: 10
+        buyPrice: 30
+        sellPrice: 6
+        slot: 0
+      2:
+        type: item
+        item:
+          material: APPLE
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 4
+        slot: 1
+      3:
+        type: item
+        item:
+          material: GOLDEN_APPLE
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 20
+        slot: 2
+      4:
+        type: item
+        item:
+          material: GOLDEN_APPLE
+          quantity: 1
+          damage: 1
+        buyPrice: 1000
+        sellPrice: 200
+        slot: 3
+      6:
+        type: item
+        item:
+          material: PUMPKIN_PIE
+          quantity: 1
+        buyPrice: 25
+        sellPrice: 4
+        slot: 4
+      7:
+        type: item
+        item:
+          material: BREAD
+          quantity: 1
+        buyPrice: 25
+        sellPrice: 5
+        slot: 5
+      8:
+        type: item
+        item:
+          material: COOKED_CHICKEN
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 5
+        slot: 6
+      9:
+        type: item
+        item:
+          material: BAKED_POTATO
+          quantity: 10
+        buyPrice: 30
+        sellPrice: 6
+        slot: 7
+      10:
+        type: item
+        item:
+          material: MUSHROOM_SOUP
+          quantity: 1
+        buyPrice: 15
+        sellPrice: 4
+        slot: 8
+      11:
+        type: item
+        item:
+          material: COOKED_FISH
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 4
+        slot: 9
+      12:
+        type: item
+        item:
+          material: COOKED_FISH
+          quantity: 1
+          damage: 1
+        buyPrice: 30
+        sellPrice: 5
+        slot: 10
+      13:
+        type: item
+        item:
+          material: COOKED_RABBIT
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 4
+        slot: 11
+      14:
+        type: item
+        item:
+          material: GRILLED_PORK
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 6
+        slot: 12
+      15:
+        type: item
+        item:
+          material: COOKED_BEEF
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 6
+        slot: 13
+  tools:
+    name: "Tools"
+    size: 36
+    buttons:
+      goBack:
+        slot: 31
+      previousPage:
+        slot: 30
+      nextPage:
+        slot: 32
+    items:
+      1:
+        type: item
+        item:
+          material: GOLD_PICKAXE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 10
+        slot: 0
+      2:
+        type: item
+        item:
+          material: IRON_PICKAXE
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 20
+        slot: 1
+      3:
+        type: item
+        item:
+          material: DIAMOND_PICKAXE
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: 0
+        slot: 2
+      4:
+        type: item
+        item:
+          material: GOLD_AXE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 10
+        slot: 3
+      5:
+        type: item
+        item:
+          material: IRON_AXE
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 20
+        slot: 4
+      6:
+        type: item
+        item:
+          material: DIAMOND_AXE
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: 200
+        slot: 5
+      7:
+        type: item
+        item:
+          material: GOLD_SPADE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 5
+        slot: 6
+      8:
+        type: item
+        item:
+          material: IRON_SPADE
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 10
+        slot: 7
+      9:
+        type: item
+        item:
+          material: DIAMOND_SPADE
+          quantity: 1
+        buyPrice: 750
+        sellPrice: 150
+        slot: 8
+      10:
+        type: item
+        item:
+          material: GOLD_HOE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 0
+        slot: 9
+      11:
+        type: item
+        item:
+          material: IRON_HOE
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 20
+        slot: 10
+      12:
+        type: item
+        item:
+          material: DIAMOND_HOE
+          quantity: 1
+        buyPrice: 1000
+        sellPrice: 200
+        slot: 11
+      13:
+        type: item
+        item:
+          material: FLINT_AND_STEEL
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 10
+        slot: 12
+      14:
+        type: item
+        item:
+          material: SHEARS
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 20
+        slot: 13
+      15:
+        type: item
+        item:
+          material: FISHING_ROD
+          quantity: 1
+        buyPrice: 150
+        sellPrice: 30
+        slot: 14
+  ores:
+    name: "Ores Shop"
+    items:
+      1:
+        type: item
+        item:
+          material: COAL
+          quantity: 1
+        buyPrice: 25
+        sellPrice: 2
+        slot: 1
+      2:
+        type: item
+        item:
+          material: IRON_INGOT
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 20
+        slot: 2
+      3:
+        type: item
+        item:
+          material: GOLD_INGOT
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 40
+        slot: 3
+      4:
+        type: item
+        item:
+          material: EMERALD
+          quantity: 1
+        buyPrice: 350
+        sellPrice: 100
+        slot: 4
+      5:
+        type: item
+        item:
+          material: DIAMOND
+          quantity: 1
+        buyPrice: 500
+        sellPrice: 200
+        slot: 5
+      6:
+        type: item
+        item:
+          material: 351
+          damage: 4
+          quantity: 1
+        buyPrice: 256
+        sellPrice: 64
+        slot: 6
+      7:
+        type: item
+        item:
+          material: REDSTONE
+          quantity: 1
+        buyPrice: 33
+        sellPrice: 16
+        slot: 7
+  farming:
+    name: "Farming Shop"
+    items:
+      1:
+        type: item
+        item:
+          material: 6
+          damage: 0
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 10
+        slot: 1
+      2:
+        type: item
+        item:
+          material: 6
+          damage: 1
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 10
+        slot: 2
+      3:
+        type: item
+        item:
+          material: 6
+          damage: 2
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 10
+        slot: 3
+      4:
+        type: item
+        item:
+          material: 6
+          damage: 3
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 10
+        slot: 4
+      5:
+        type: item
+        item:
+          material: 6
+          damage: 4
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 10
+        slot: 5
+      6:
+        type: item
+        item:
+          material: 6
+          damage: 5
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 10
+        slot: 6
+      7:
+        type: item
+        item:
+          material: 351
+          damage: 3
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 3
+        slot: 7
+      8:
+        type: item
+        item:
+          material: 296
+          damage: 0
+          quantity: 1
+        buyPrice: 25
+        sellPrice: 7
+        slot: 8
+      9:
+        type: item
+        item:
+          material: 338
+          damage: 0
+          quantity: 1
+        buyPrice: 250
+        sellPrice: 8
+        slot: 9
+      10:
+        type: item
+        item:
+          material: 361
+          damage: 0
+          quantity: 1
+        buyPrice: 19
+        sellPrice: 0.15
+        slot: 10
+      11:
+        type: item
+        item:
+          material: 295
+          damage: 0
+          quantity: 1
+        buyPrice: 13
+        sellPrice: 2
+        slot: 11
+      12:
+        type: item
+        item:
+          material: 391
+          damage: 0
+          quantity: 1
+        buyPrice: 25
+        sellPrice: 11
+        slot: 12
+      13:
+        type: item
+        item:
+          material: 392
+          damage: 0
+          quantity: 1
+        buyPrice: 25
+        sellPrice: 9
+        slot: 13
+      14:
+        type: item
+        item:
+          material: 362
+          damage: 0
+          quantity: 1
+        buyPrice: 19
+        sellPrice: 0.15
+        slot: 14
+      15:
+        type: item
+        item:
+          material: 81
+          damage: 0
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 10
+        slot: 15
+      16:
+        type: item
+        item:
+          material: 39
+          damage: 0
+          quantity: 1
+        buyPrice: 150
+        sellPrice: 5
+        slot: 16
+      17:
+        type: item
+        item:
+          material: 40
+          damage: 0
+          quantity: 1
+        buyPrice: 150
+        sellPrice: 5
+        slot: 17
+      18:
+        type: item
+        item:
+          material: 372
+          damage: 0
+          quantity: 1
+        buyPrice: 225
+        sellPrice: 5
+        slot: 0
+  eggs:
+    name: "Mob Eggs Shop"
+    items:
+      1:
+        type: item
+        item:
+          material: 383
+          damage: 90
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+        slot: 10
+      2:
+        type: item
+        item:
+          material: 383
+          damage: 92
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+        slot: 11
+      3:
+        type: item
+        item:
+          material: 383
+          damage: 96
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+        slot: 12
+      4:
+        type: item
+        item:
+          material: 383
+          damage: 91
+          quantity: 1
+        buyPrice: 1500
+        sellPrice: -1
+        slot: 13
+      5:
+        type: item
+        item:
+          material: 383
+          damage: 98
+          quantity: 1
+        buyPrice: 5000
+        sellPrice: -1
+        slot: 14
+      6:
+        type: item
+        item:
+          material: 383
+          damage: 95
+          quantity: 1
+        buyPrice: 5000
+        sellPrice: -1
+        slot: 15
+      7:
+        type: item
+        item:
+          material: 383
+          damage: 120
+          quantity: 1
+        buyPrice: 10000
+        sellPrice: -1
+        slot: 16
+      8:
+        type: item
+        item:
+          material: 383
+          damage: 101
+          quantity: 1
+        buyPrice: 10000
+        sellPrice: -1
+        slot: 22
+      9:
+        type: item
+        item:
+          material: 383
+          damage: 93
+          quantity: 1
+        buyPrice: 10000
+        sellPrice: -1
+        slot: 23
+  blocks:
+    name: "Building Shop"
+    items:
+      1:
+        type: item
+        item:
+          material: 13
+          damage: 0
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+        slot: 0
+      2:
+        type: item
+        item:
+          material: 79
+          quantity: 1
+        buyPrice: 50
+        sellPrice: -1
+        slot: 1
+      5:
+        type: item
+        item:
+          material: 80
+          damage: 0
+          quantity: 1
+        buyPrice: 30
+        sellPrice: -1
+        slot: 2
+      7:
+        type: item
+        item:
+          material: 155
+          damage: 0
+          quantity: 1
+        buyPrice: 225
+        sellPrice: -1
+        slot: 3
+      8:
+        type: item
+        item:
+          material: 45
+          damage: 0
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 5
+        slot: 4
+      9:
+        type: item
+        item:
+          material: 121
+          damage: 0
+          quantity: 1
+        buyPrice: 32
+        sellPrice: 15
+        slot: 5
+      10:
+        type: item
+        item:
+          material: OBSIDIAN
+          damage: 0
+          quantity: 1
+        buyPrice: 2500
+        sellPrice: -1
+        sellPrice: 10
+        slot: 6
+      28:
+        type: item
+        item:
+          material: 168
+          damage: 1
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+        slot: 7
+      29:
+        type: item
+        item:
+          material: 168
+          damage: 2
+          quantity: 1
+        buyPrice: 100
+        sellPrice: -1
+        slot: 8
+      30:
+        type: item
+        item:
+          material: 179
+          damage: 0
+          quantity: 1
+        buyPrice: 10
+        sellPrice: -1
+        slot: 9
+      31:
+        type: item
+        item:
+          material: 82
+          damage: 0
+          quantity: 1
+        buyPrice: 10
+        sellPrice: -1
+        slot: 10
+      32:
+        type: item
+        item:
+          material: 110
+          damage: 0
+          quantity: 1
+        buyPrice: 50
+        sellPrice: -1
+        slot: 11
+      33:
+        type: item
+        item:
+          material: 174
+          damage: 0
+          quantity: 1
+        buyPrice: 13
+        sellPrice: -1
+        slot: 12
+      34:
+        type: item
+        item:
+          material: 3
+          damage: 2
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 5
+        slot: 13
+      35:
+        type: item
+        item:
+          material: 169
+          damage: 0
+          quantity: 1
+        buyPrice: 75
+        sellPrice: -1
+        slot: 14
+      36:
+        type: item
+        item:
+          material: 17
+          damage: 0
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 2.50
+        slot: 19
+      38:
+        type: item
+        item:
+          material: 1
+          damage: 3
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 3
+        slot: 21
+      39:
+        type: item
+        item:
+          material: 1
+          damage: 5
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 3
+        slot: 22
+      40:
+        type: item
+        item:
+          material: 1
+          damage: 0
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 3
+        slot: 23
+      42:
+        type: item
+        item:
+          material: 4
+          damage: 0
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 2
+        slot: 25
+      43:
+        type: item
+        item:
+          material: 20
+          damage: 0
+          quantity: 32
+        buyPrice: 12
+        sellPrice: 5
+        slot: 26
+      44:
+        type: item
+        item:
+          material: 24
+          damage: 0
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+        slot: 27
+      476:
+        type: item
+        item:
+          material: SAND
+          quantity: 1
+        buyPrice: 15
+        sellPrice: 5
+        slot: 28
+      45:
+        type: item
+        item:
+          material: 2
+          damage: 0
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 5
+        slot: 29
+      46:
+        type: item
+        item:
+          material: 98
+          damage: 0
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 1
+        slot: 24
+      47:
+        type: item
+        item:
+          material: 87
+          damage: 0
+          quantity: 1
+        buyPrice: 15
+        sellPrice: 0.25
+        slot: 15
+      48:
+        type: item
+        item:
+          material: 88
+          damage: 0
+          quantity: 1
+        buyPrice: 75
+        sellPrice: 10
+        slot: 16
+      49:
+        type: item
+        item:
+          material: 112
+          damage: 0
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 1
+        slot: 17
+      50:
+        type: item
+        item:
+          material: 89
+          damage: 0
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 20
+        slot: 18
+      51:
+        type: item
+        item:
+          material: 3
+          damage: 0
+          quantity: 1
+        buyPrice: 1
+        sellPrice: 0
+        slot: 20
+  clay:
+    name: "Clay Shop"
+    items:
+      1:
+        type: item
+        item:
+          material: CLAY
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 0
+      2:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage:
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 1
+      3:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 1
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 2
+      4:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 2
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 3
+      5:
+        type: item
+        item: 
+          material: STAINED_CLAY
+          damage: 3
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 4
+      6:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 4
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 5
+      7:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 5
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 6
+      8:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 6
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 7
+      9:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 7
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 8
+      10:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 8
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 9
+      11:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 9
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 10
+      12:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 10
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 11
+      13:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 11
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 12
+      14:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 12
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 13
+      15:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 13
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 14
+      16:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 14
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 15
+      17:
+        type: item
+        item:
+          material: STAINED_CLAY
+          damage: 15
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 16
+      18:
+        type: item
+        item:
+          material: HARD_CLAY
+          damage:
+          quantity: 64
+        buyPrice: 500
+        sellPrice: -1
+        slot: 17
+  glass:
+    name: "Glass Shop"
+    items:
+      1:
+        type: item
+        item:
+          material: GLASS
+          quantity: 64
+        buyPrice: 12
+        sellPrice: 5
+        slot: 0
+      2:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage:
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 1
+      3:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 1
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 2
+      4:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 2
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 3
+      5:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 3
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 4
+      6:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 4
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 5
+      7:
+        type: item
+        item: 
+          material: STAINED_GLASS
+          damage: 5
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0 
+        slot: 6
+      8:
+        type: item
+        item: 
+          material: STAINED_GLASS
+          damage: 6
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 7
+      9:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 7
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 8
+      10:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 8
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 9
+      11:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 9
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 10
+      12:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 10
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 11
+      13:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 11
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 12
+      14:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 12
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 13
+      15:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 13
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 14
+      16:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 14
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 15
+      17:
+        type: item
+        item:
+          material: STAINED_GLASS
+          damage: 15
+          quantity: 64
+        buyPrice: 500
+        slot: 16
+      18:
+        type: item
+        item:
+          material: THIN_GLASS
+          quantity: 64
+        buyPrice: 500
+        slot: 17
+      19:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 
+          quantity: 64
+        buyPrice: 500
+        slot: 18      
+      20:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 1
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 19
+      21:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 2
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 20
+      22:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 3
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 21
+      23:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 4
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 22
+      24:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 5
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 23
+      25:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 6
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 24
+      26:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 7
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 25
+      27:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 8
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 26
+      28:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 9
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 27
+      29:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 10
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 28
+      30:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 11
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 29
+      31:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 12
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 30
+      32:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 13
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 31
+      33:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 14
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 32
+      34:
+        type: item
+        item:
+          material: STAINED_GLASS_PANE
+          damage: 15
+          quantity: 64
+        buyPrice: 500
+        sellPrice: 0
+        slot: 33
+        
+  spawners:
+    name: "Spawners"
+    items:
+      1:
+        type: item
+        item:
+          spawner: true
+          mob: PIG
+          name: "&fPig Spawner"
+          quantity: 1
+        buyPrice: 50000
+        sellPrice: 0
+        slot: 0
+      2:
+        type: item
+        item:
+          spawner: true
+          mob: COW
+          name: "&fCow Spawner"
+          quantity: 1
+        buyPrice: 100000
+        sellPrice: 0
+        slot: 1
+      3:
+        type: item
+        item:
+          spawner: true
+          mob: SHEEP
+          name: "&fSheep Spawner"
+          quantity: 1
+        buyPrice: 75000
+        sellPrice: 0
+        slot: 2
+      4:
+        type: item
+        item:
+          spawner: true
+          mob: CHICKEN
+          name: "&fChicken Spawner"
+          quantity: 1
+        buyPrice: 75000
+        sellPrice: 0
+        slot: 3
+      5:
+        type: item
+        item:
+          spawner: true
+          mob: SKELETON
+          name: "&fSkeleton Spawner"
+          quantity: 1
+        buyPrice: 250000
+        sellPrice: 0
+        slot: 4
+      6:
+        type: item
+        item:
+          spawner: true
+          mob: ZOMBIE
+          name: "&fZombie Spawner"
+          quantity: 1
+        buyPrice: 250000
+        sellPrice: 0
+        slot: 5
+      7:
+        type: item
+        item:
+          spawner: true
+          mob: CREEPER
+          name: "&fCreeper Spawner"
+          quantity: 1
+        buyPrice: 400000
+        sellPrice: 0
+        slot: 6
+      8:
+        type: item
+        item:
+          spawner: true
+          mob: SPIDER
+          name: "&fSpider Spawner"
+          quantity: 1
+        buyPrice: 200000
+        sellPrice: 0
+        slot: 7
+      9:
+        type: item
+        item:
+          spawner: true
+          mob: BLAZE
+          name: "&fBlaze Spawner"
+          quantity: 1
+        buyPrice: 750000
+        sellPrice: 0
+        slot: 8
+      10:
+        type: item
+        item:
+          spawner: true
+          mob: ENDERMAN
+          name: "&fEnderman Spawner"
+          quantity: 1
+        buyPrice: 600000
+        sellPrice: 0
+        slot: 9
+      11:
+        type: item
+        item:
+          spawner: true
+          mob: VILLAGERGOLEM
+          name: "&fIron Golem Spawner"
+          quantity: 1
+        buyPrice: 800000
+        sellPrice: 0
+        slot: 10
+      12:
+        type: item
+        item:
+          spawner: true
+          mob: LavaSlime
+          name: "&fMagma Cube Spawner"
+          quantity: 1
+        buyPrice: 250000
+        sellPrice: 0
+        slot: 11
+        
+  mobdrops:
+    name: "Mob Drops"
+    items:
+      1:
+        type: item
+        item:
+          material: ROTTEN_FLESH
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 2
+        slot: 0
+      2:
+        type: item
+        item:
+          material: BONE
+          quantity: 1
+        buyPrice: 500
+        sellPrice: 3
+        slot: 1
+      3:
+        type: item
+        item:
+          material: SULPHUR
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 8
+        slot: 2
+      4:
+        type: item
+        item:
+          material: STRING
+          quantity: 1
+        buyPrice: 7
+        sellPrice: 3
+        slot: 3
+      5:
+        type: item
+        item:
+          material: SPIDER_EYE
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 5
+        slot: 4
+      6:
+        type: item
+        item:
+          material: ENDER_PEARL
+          quantity: 4
+        buyPrice: 50
+        sellPrice: 5
+        slot: 5
+      7:
+        type: item
+        item:
+          material: SLIME_BALL
+          quantity: 1
+        buyPrice: 40
+        sellPrice: 4
+        slot: 6
+      8:
+        type: item
+        item:
+          material: PRISMARINE_CRYSTALS
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 5
+        slot: 7
+      9:
+        type: item
+        item:
+          material: PRISMARINE_SHARD
+          quantity: 1
+        buyPrice: 30
+        sellPrice: 3
+        slot: 8
+      10:
+        type: item
+        item:
+          material: BLAZE_ROD
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 10
+        slot: 9
+      11:
+        type: item
+        item:
+          material: MAGMA_CREAM
+          quantity: 1
+        buyPrice: 40
+        sellPrice: 4
+        slot: 10
+      12:
+        type: item
+        item:
+          material: GHAST_TEAR
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 5
+        slot: 11
+      12:
+        type: item
+        item:
+          material: LEATHER
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 3.50
+        slot: 11
+      13:
+        type: item
+        item:
+          material: RABBIT_HIDE
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 2
+        slot: 12
+      14:
+        type: item
+        item:
+          material: RABBIT_FOOT
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 5
+        slot: 13
+      15:
+        type: item
+        item:
+          material: INK_SACK
+          quantity: 1
+        buyPrice: 50
+        sellPrice: 5
+        slot: 14
+      16:
+        type: item
+        item:
+          material: FEATHER
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 2
+        slot: 15
+      17:
+        type: item
+        item:
+          material: EGG
+          quantity: 1
+        buyPrice: 20
+        sellPrice: 2
+        slot: 16
+      18:
+        type: item
+        item:
+          material: ARROW
+          quantity: 1
+        buyPrice: 10
+        sellPrice: 2
+        slot: 17
+      19:
+        type: item
+        item:
+          material: GHAST_TEAR
+          quantity: 1
+        buyPrice: 100
+        sellPrice: 7.5
+        slot: 18

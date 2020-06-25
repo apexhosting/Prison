@@ -1,0 +1,6 @@
+general:
+  name: shop-104
+  world: Prison
+  type: rent
+rent:
+  price: 6000.0

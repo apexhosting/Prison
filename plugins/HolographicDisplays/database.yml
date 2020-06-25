@@ -1,0 +1,507 @@
+prisonintro:
+  location: Prison, 217.423, 71.200, -226.500
+  lines:
+  - '&8&l---------'
+  - '&f&oWelcome to ApexHosting''s &7&l&oPrison Server'
+  - '&f&oThis server is based around our &7&l&oPrison Gametype'
+  - '&f&oWe''ve set up &7&oplugins &f&oand other preset necessities so'
+  - '&f&othat you don''t have to! To begin simply step up to'
+  - '&f&othe first bus and you''ll be teleported to your block!'
+  - '&8&l---------'
+  - '&7&o(/hd edit prisoninfo)'
+basicinfo:
+  location: Prison, 215.466, 69.200, -230.712
+  lines:
+  - '&b&l&oBasic Information'
+pluginhelp:
+  location: Prison, 215.569, 69.200, -222.299
+  lines:
+  - '&6&l&oPlugin Help'
+businfo:
+  location: Prison, 203.752, 71.200, -226.542
+  lines:
+  - '&e&oBus Information'
+  - '&8&l---------'
+  - '&f&oThese buses will warp you to your'
+  - '&f&ospecific &6&l&oBlock &f&ofrom there'
+  - '&f&oyou can begin your setence and start'
+  - '&f&oyour prison &c&l&oEmpire'
+  - '&8&l---------'
+block2:
+  location: Prison, 191.588, 72.200, -211.502
+  lines:
+  - '&7&l&oBlock 2 Bus'
+block1:
+  location: Prison, 191.671, 72.200, -206.493
+  lines:
+  - '&f&l&oBlock 1 Bus'
+  - '&f&o(Take me first!)'
+  - '&8&l-------'
+  - '&f&oStep on the iron to warp!'
+block3:
+  location: Prison, 191.659, 72.200, -216.507
+  lines:
+  - '&8&l&oBlock 3 Bus'
+block4:
+  location: Prison, 191.638, 72.200, -221.515
+  lines:
+  - '&d&l&oBlock 4 Bus'
+block5:
+  location: Prison, 191.533, 72.200, -226.528
+  lines:
+  - '&b&l&oBlock 5 Bus'
+block6:
+  location: Prison, 191.583, 72.200, -231.507
+  lines:
+  - '&9&l&oBlock 6 Bus'
+block7:
+  location: Prison, 191.609, 72.200, -236.491
+  lines:
+  - '&2&l&oBlock 7 Bus'
+block8:
+  location: Prison, 191.573, 72.200, -241.520
+  lines:
+  - '&6&l&oBlock 8 Bus'
+block9:
+  location: Prison, 191.521, 72.200, -246.472
+  lines:
+  - '&4&l&oBlock 9 Bus'
+firstblock:
+  location: Prison, -50.485, 57.200, -332.593
+  lines:
+  - '&f&o&lPrison Block 1'
+secondblock:
+  location: Prison, -50.469, 57.200, -342.283
+  lines:
+  - '&7&l&o Prison Block 2'
+blockonemine:
+  location: Prison, -44.650, 58.200, -304.529
+  lines:
+  - '&f&l&oBlock One Mineral Mine'
+blockonewood:
+  location: Prison, -55.300, 58.700, -298.501
+  lines:
+  - '&f&l&oBlock One'
+  - '&a&l&oWood Mine'
+blockonewood2:
+  location: Prison, -78.491, 80.200, -291.671
+  lines:
+  - '&f&l&oBlock One'
+  - '&a&l&oWood Mine'
+blocktwomine:
+  location: Prison, -44.648, 58.200, -370.517
+  lines:
+  - '&7&l&oBlock Two Mineral Mine'
+blocktwowoodmine:
+  location: Prison, -55.300, 59.200, -376.506
+  lines:
+  - '&7&l&oBlock Two'
+  - '&a&l&oWood Mine'
+blocktwowoodmine2:
+  location: Prison, -80.535, 82.200, -368.660
+  lines:
+  - '&7&l&oBlock Two'
+  - '&a&l&oWood Mine'
+blocktwocells:
+  location: Prison, -56.283, 58.200, -366.508
+  lines:
+  - '&7&l&oBlock Two'
+  - '&6&l&oRentable Cells'
+blockonecells:
+  location: Prison, -56.267, 58.200, -308.500
+  lines:
+  - '&f&l&oBlock One'
+  - '&6&l&oRentable Cells'
+block12shops:
+  location: Prison, -73.183, 58.200, -337.474
+  lines:
+  - '&f&l&oBlock One &7&l&oand Two'
+  - '&6&lRentable Shops'
+blockthree:
+  location: Prison, -45.765, 57.200, -337.485
+  lines:
+  - '&8&l&oPrison Block 3'
+blockthreemine:
+  location: Prison, 24.282, 83.200, -337.517
+  lines:
+  - '&8&l&oBlock Three Mineral Mine'
+blockthreemine2:
+  location: Prison, -3.755, 82.200, -337.571
+  lines:
+  - '&8&l&oBlock Three Mineral Mine'
+blockfourlink:
+  location: Prison, -10.503, 82.200, -308.891
+  lines:
+  - '&d&l&oTo Prison Block 4'
+blockthreewood:
+  location: Prison, -3.773, 82.200, -349.512
+  lines:
+  - '&8&l&oBlock Three'
+  - '&a&l&oWood Mine'
+blockthreewood2:
+  location: Prison, 7.485, 85.200, -388.163
+  lines:
+  - '&8&l&oBlock Three'
+  - '&a&l&oWood Mine'
+blockthreecells:
+  location: Prison, -22.454, 83.700, -352.359
+  lines:
+  - '&8&l&oBlock Three'
+  - '&6&l&oRentable Cells'
+toblock12:
+  location: Prison, -16.402, 82.200, -337.512
+  lines:
+  - '&f&l&oStairs down to'
+  - '&f&l&oBlock 1 &7&l&oand 2'
+craftandshop:
+  location: Prison, -25.393, 82.200, -345.514
+  lines:
+  - '&b&l&oCraft &7&l&oand &6&l&oShop'
+  - '&7(Server Shop)'
+blockthreeshops:
+  location: Prison, -11.540, 83.200, -365.445
+  lines:
+  - '&8&l&oBlock Three'
+  - '&6&l&oRentable Shops'
+blockfourmine:
+  location: Prison, 10.559, 48.200, -146.528
+  lines:
+  - '&d&l&oBlock Four Mineral Mine'
+blockfour:
+  location: Prison, 99.609, 73.200, -178.502
+  lines:
+  - '&d&l&oPrison Block 4'
+blockfourwoodmine:
+  location: Prison, -8.234, 48.200, -165.552
+  lines:
+  - '&d&l&oBlock Four'
+  - '&a&l&oWood Mine'
+commonarea:
+  location: Prison, 128.594, 72.200, -178.544
+  lines:
+  - '&f&oThis floor is a common area, the blocks'
+  - '&f&oin this section of the prison are above'
+  - '&f&oor below this floor, and the mines for blocks'
+  - '&f&o5 and 6 are to each side of the common area floor.'
+  - '&7&o(/hd edit commonarea)'
+blockfiveinfo:
+  location: Prison, 1.490, 74.200, -166.410
+  lines:
+  - '&b&l&oBlock Five'
+  - '&a&l&oWood Mine'
+  - '&8&l-------'
+  - '&c&l&oInmate Exchange'
+  - '&7&o(Player Shops)'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+  - '&e&l&oCrafting / Furnaces'
+blockfiveinfo2:
+  location: Prison, 19.493, 74.200, -166.715
+  lines:
+  - '&b&l&oBlock Five'
+  - '&b&l&oMineral Mine'
+  - '&8&l-------'
+  - '&c&l&oInmate Exchange'
+  - '&7&o(Player Shops)'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+  - '&e&l&oCrafting / Furnaces'
+blocksixinfo:
+  location: Prison, 19.495, 74.200, -190.347
+  lines:
+  - '&9&l&oBlock Six'
+  - '&9&l&oMineral Mine'
+  - '&8&l-------'
+  - '&c&l&oServer Shops'
+  - '&7&o(Admin Shops)'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+  - '&e&l&oCrafting / Furnaces'
+blocksixinfo2:
+  location: Prison, 1.473, 74.200, -190.404
+  lines:
+  - '&9&l&oBlock Six'
+  - '&a&l&oWood Mine'
+  - '&8&l-------'
+  - '&c&l&oServer Shops'
+  - '&7&o(Admin Shops)'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+  - '&e&l&oCrafting / Furnaces'
+blockfivemine:
+  location: Prison, 24.289, 73.200, -132.496
+  lines:
+  - '&b&l&oBlock Five'
+  - '&b&l&oMineral Mine'
+blockfivewoodmine:
+  location: Prison, -3.467, 73.200, -132.477
+  lines:
+  - '&b&l&oBlock Five'
+  - '&a&l&oWood Mine'
+blocksixmine:
+  location: Prison, 24.391, 73.200, -224.531
+  lines:
+  - '&9&l&oBlock Six'
+  - '&9&l&oMineral Mine'
+blocksixwoodmine:
+  location: Prison, -3.360, 73.200, -224.472
+  lines:
+  - '&9&l&oBlock Six'
+  - '&a&l&oWood Mine'
+prisonyard:
+  location: Prison, -49.416, 73.200, -178.511
+  lines:
+  - '&4&l&oPrison Yard'
+  - '&c&oPvP Enabled'
+  - '&8&l-------'
+blockfivecells:
+  location: Prison, 78.497, 73.200, -164.762
+  lines:
+  - '&b&l&oBlock Five'
+  - '&6&l&oRentable Cells'
+  - '&7&oAll other blocks are up'
+  - '&7&othe stairs paste five'
+blockfivecells1:
+  location: Prison, 78.522, 73.200, -192.420
+  lines:
+  - '&b&l&oBlock Five'
+  - '&6&l&oRentable Cells'
+  - '&7&oAll other blocks are up'
+  - '&7&othe stairs paste five'
+blockfivecells2:
+  location: Prison, -42.493, 74.200, -171.513
+  lines:
+  - '&b&l&oBlock Five'
+  - '&6&l&oRentable Cells'
+  - '&7&oAll other blocks are up'
+  - '&7&othe stairs paste five'
+blockfivecells3:
+  location: Prison, -42.407, 74.200, -185.500
+  lines:
+  - '&b&l&oBlock Five'
+  - '&6&l&oRentable Cells'
+  - '&7&oAll other blocks are up'
+  - '&7&othe stairs past five'
+blocksixcells:
+  location: Prison, -51.004, 82.200, -180.612
+  lines:
+  - '&9&l&oBlock Six'
+  - '&6&l&oRentable Cells'
+blockseveninfo:
+  location: Prison, -49.363, 89.200, -178.508
+  lines:
+  - '&2&l&oBlock Seven Level'
+  - '&6&l&oRentable Cells'
+blockeightinfo:
+  location: Prison, -52.023, 104.200, -184.540
+  lines:
+  - '&6&l&oBlock Eight Level'
+blocknineinfo:
+  location: Prison, 20.586, 113.200, -178.489
+  lines:
+  - '&4&l&oBlock Nine Level'
+blocksevenwoodmine:
+  location: Prison, 18.487, 96.200, -241.342
+  lines:
+  - '&2&l&oBlock Seven'
+  - '&a&l&oWood Mine'
+blocksevenmine:
+  location: Prison, 2.416, 96.200, -241.518
+  lines:
+  - '&2&l&oBlock Seven'
+  - '&2&l&oMineral Mine'
+blocksevenwoodmine2:
+  location: Prison, 2.464, 96.200, -115.555
+  lines:
+  - '&2&l&oBlock Seven'
+  - '&a&l&oWood Mine'
+blocksevenmine2:
+  location: Prison, 18.544, 96.200, -115.744
+  lines:
+  - '&2&l&oBlock Seven'
+  - '&2&l&oMineral Mine'
+blockseven:
+  location: Prison, 19.466, 96.200, -154.574
+  lines:
+  - '&2&l&oBlock Seven'
+  - '&6&l&oRentable Cells'
+  - '&8&l-------'
+  - '&2&l&oMineral Mine'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+  - '&c&l&oServer Shops'
+  - '&7&o(/hd edit blockseven(1,2,3))'
+blockseven1:
+  location: Prison, 1.531, 96.200, -154.548
+  lines:
+  - '&2&l&oBlock Seven'
+  - '&6&l&oRentable Cells'
+  - '&8&l-------'
+  - '&a&l&oWood Mine'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+  - '&c&l&oServer Shops'
+blockseven2:
+  location: Prison, 19.416, 96.200, -202.483
+  lines:
+  - '&2&l&oBlock Seven'
+  - '&6&l&oRentable Cells'
+  - '&8&l-------'
+  - '&a&l&oWood Mine'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+  - '&c&l&oServer Shops'
+blockseven3:
+  location: Prison, 1.485, 96.200, -202.356
+  lines:
+  - '&2&l&oBlock Seven'
+  - '&6&l&oRentable Cells'
+  - '&8&l-------'
+  - '&2&l&oMineral Mine'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+  - '&c&l&oServer Shops'
+blockeightshops:
+  location: Prison, 10.692, 105.200, -196.471
+  lines:
+  - '&c&l&oServer Shops'
+blockeightwoodmine:
+  location: Prison, -4.011, 104.200, -194.392
+  lines:
+  - '&6&l&oBlock Eight'
+  - '&a&l&oWood Mine'
+blockeightmine:
+  location: Prison, -4.007, 104.200, -162.520
+  lines:
+  - '&6&l&oBlock Eight'
+  - '&6&l&oMineral Mine'
+blockeightmine2:
+  location: Prison, 24.978, 104.200, -162.558
+  lines:
+  - '&6&l&oBlock Eight'
+  - '&6&l&oMineral Mine'
+blockeightwoodmine1:
+  location: Prison, 25.001, 104.200, -194.546
+  lines:
+  - '&6&l&oBlock Eight'
+  - '&a&l&oWood Mine'
+blockeight:
+  location: Prison, -14.434, 105.200, -187.991
+  lines:
+  - '&6&l&oBlock Eight'
+  - '&7&l&oStairwell'
+  - '&8&l-------'
+  - '&c&l&oServer Shops'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+blockeight1:
+  location: Prison, -14.469, 105.200, -169.005
+  lines:
+  - '&6&l&oBlock Eight'
+  - '&7&l&oStairwell'
+  - '&8&l-------'
+  - '&c&l&oServer Shops'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+blocknineshops:
+  location: Prison, 30.263, 114.200, -178.533
+  lines:
+  - '&4&l&oBlock Nine'
+  - '&8&l-------'
+  - '&c&l&oServer Shops'
+  - '&8&l-------'
+  - '&5&l&oEnchanting'
+  - '&e&l&oCrafting'
+blocknineinfo1:
+  location: Prison, 10.543, 113.700, -201.328
+  lines:
+  - '&4&l&oBlock Nine'
+  - '&6&l&oRentable Cells'
+  - '&8&l-------'
+  - '&4&l&oMineral Mine'
+  - '&a&l&oWood Mine'
+  - '&8&l-------'
+blocknineinfo2:
+  location: Prison, 10.526, 113.700, -155.612
+  lines:
+  - '&4&l&oBlock Nine'
+  - '&6&l&oRentable Cells'
+  - '&8&l-------'
+  - '&4&l&oMineral Mine'
+  - '&a&l&oWood Mine'
+  - '&8&l-------'
+blockthreewarp:
+  location: Prison, -10.507, 82.200, -326.408
+  lines:
+  - '&8&l&oPrison Block Three'
+blockfivewarp:
+  location: Prison, 45.749, 80.200, -178.550
+  lines:
+  - '&b&l&oPrison Block Five'
+  - '&8&l-------'
+  - '&7&oSome block five areas'
+  - '&7&oare downstairs!'
+blocksixwarp:
+  location: Prison, -9.502, 89.200, -178.506
+  lines:
+  - '&9&l&oPrison Block Six'
+  - '&8&l-------'
+  - '&7&oMines etc. may be'
+  - '&7&oon the bottom floor!'
+blocksevenwarp:
+  location: Prison, -48.684, 95.200, -188.059
+  lines:
+  - '&2&l&oPrison Block Seven'
+  - '&8&l-------'
+  - '&7&oMines from this block'
+  - '&7&oonward will be warped to'
+  - '&7&ovia portals found down'
+  - '&7&othe hallway!'
+blockeightwarp:
+  location: Prison, 50.469, 104.700, -178.504
+  lines:
+  - '&6&l&oPrison Block Eight'
+  - '&8&l-------'
+  - '&7&oThe second to last'
+  - '&7&oblock, only the toughest'
+  - '&7&osurvive... Good luck.'
+blockninewarp:
+  location: Prison, 12.556, 114.200, -178.479
+  lines:
+  - '&4&l&oPrison Block Nine'
+  - '&8&l-------'
+  - '&7&oYou''re almost free'
+  - '&7&okeep grinding.'
+blocksevenmineisland:
+  location: Prison, 512.524, 76.200, -301.495
+  lines:
+  - '&2&l&oBlock Seven'
+  - '&2&l&oGeneral Mine'
+  - '&8&l-------'
+  - '&7&oWelcome to Block Seven''s'
+  - '&7&oMining Island!'
+blockeightminewarp:
+  location: Prison, 108.424, 71.200, -578.389
+  lines:
+  - '&6&l&oBlock Eight'
+  - '&6&l&oMineral Warp'
+  - '&8&l-------'
+  - '&a&l&oWood Mine'
+blockninemine:
+  location: Prison, -253.967, 77.200, -484.591
+  lines:
+  - '&4&l&oBlock Nine'
+  - '&4&l&oMineral Mine'
+  - '&8&l-------'
+  - '&a&l&oWood Mine'
+playershopsarea:
+  location: Prison, 10.517, 72.200, -115.727
+  lines:
+  - '&c&l&oBlack Market'
+  - '&8&l^'
+freewarp:
+  location: Prison, -19.166, 117.700, -178.523
+  lines:
+  - '&d&l&oFree Warp'
+  - '&7&oWarp to normal world once'
+  - '&7&oyou finish all of the blocks!'

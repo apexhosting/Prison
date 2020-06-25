@@ -1,0 +1,6 @@
+general:
+  name: shop-026
+  world: Prison
+  type: rent
+rent:
+  price: 750.0

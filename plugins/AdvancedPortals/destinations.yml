@@ -1,0 +1,120 @@
+# 
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+#      Z:
+
+blockone:
+  world: Prison
+  pos:
+    X: -50.57628591666949
+    Y: 53.5
+    Z: -335.7783176366621
+    pitch: -8.85007
+    yaw: -0.25712627
+blocktwo:
+  world: Prison
+  pos:
+    X: -50.554334145367704
+    Y: 53.5
+    Z: -339.65368816954305
+    pitch: -13.050089
+    yaw: 180.49072
+blockthree:
+  world: Prison
+  pos:
+    X: -10.499605327886075
+    Y: 79.0
+    Z: -320.72739924783446
+    pitch: -2.5499842
+    yaw: 180.49226
+blockfour:
+  world: Prison
+  pos:
+    X: 104.35117814113026
+    Y: 70.0
+    Z: -178.45744266243935
+    pitch: -5.2499876
+    yaw: 90.04404
+blockfive:
+  world: Prison
+  pos:
+    X: 49.32487507506794
+    Y: 77.0
+    Z: -178.4845726147008
+    pitch: -5.7000237
+    yaw: -270.40164
+blocksix:
+  world: Prison
+  pos:
+    X: -13.983241924791368
+    Y: 86.0
+    Z: -178.48831516244485
+    pitch: 0.4499713
+    yaw: 269.4311
+blockseven:
+  world: Prison
+  pos:
+    X: -52.92945703717607
+    Y: 92.0
+    Z: -188.0526937458483
+    pitch: -0.15000392
+    yaw: -89.340096
+blockeight:
+  world: Prison
+  pos:
+    X: 55.83166862540942
+    Y: 101.0
+    Z: -178.62628907928595
+    pitch: -3.2999878
+    yaw: 89.011475
+blocknine:
+  world: Prison
+  pos:
+    X: 19.02622453091744
+    Y: 110.0
+    Z: -178.62545386984883
+    pitch: -4.650008
+    yaw: 90.66075
+blocksevenmine:
+  world: Prison
+  pos:
+    X: 512.6419350267751
+    Y: 71.0
+    Z: -308.4081951021834
+    pitch: -14.550247
+    yaw: 0.2170105
+blockeightmine:
+  world: Prison
+  pos:
+    X: 108.37581291923503
+    Y: 67.0
+    Z: -583.1681908621526
+    pitch: -5.3998814
+    yaw: -0.089675464
+blockninemine:
+  world: Prison
+  pos:
+    X: -253.9242222317661
+    Y: 74.0
+    Z: -490.03920928705406
+    pitch: -5.8500776
+    yaw: 359.90714
+world:
+  world: world
+  pos:
+    X: 595.3612536057883
+    Y: 70.0
+    Z: 481.4798927810209
+    pitch: -2.0999935
+    yaw: -179.09933
+plots:
+  world: Plots
+  pos:
+    X: -24.5
+    Y: 63.0
+    Z: -24.5
+    pitch: 12.299995
+    yaw: 4.799906

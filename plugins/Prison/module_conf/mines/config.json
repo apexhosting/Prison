@@ -1,0 +1,16 @@
+{
+  "asyncReset": true,
+  "resetMessages": true,
+  "multiworld": true,
+  "fillMode": false,
+  "resetTime": 600,
+  "worlds": [
+    "Prison",
+    "mines"
+  ],
+  "resetWarningTimes": [
+    600,
+    300,
+    60
+  ]
+}

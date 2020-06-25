@@ -1,0 +1,6 @@
+general:
+  name: shop-103
+  world: Prison
+  type: rent
+rent:
+  price: 6000.0

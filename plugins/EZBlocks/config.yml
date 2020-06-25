@@ -1,0 +1,85 @@
+# EZBlocks version 1.5.0 Main configuration file.
+# database: true/false
+# If you choose to use MySQL, set this to true and
+# enter your MySQL credentials
+# save_interval: how often (in minutes) should EZBlocks save to file/MySQL
+# enabled_worlds: what worlds should EZBlocks be enabled in, use 'all' for all worlds
+# pickaxe_never_breaks: should EZBlocks prevent pickaxes from breaking
+# only_track_below_y: should we only track blockbreaks below a certain y coordinate
+# pickaxe_counter:
+# This section lets you choose how to display the pickaxe specific blockbreak counter
+# If useDisplayName: true, Do not add Blocks broken: to the format
+# the format specified will be added on any pickaxe with a displayname present
+# if useDisplayName: false, the format will be added in the lore of the pickaxe
+# 
+# global_rewards:
+# this is where you can give rewards when players reach x amount of global blockbreaks
+# this does not reward depending on the pickaxe counter, only global blockbreaks
+# 
+# interval_rewards:
+# this is where you can give rewards every x blocks mined
+# this does not reward depending on the pickaxe counter, only global blockbreaks
+database:
+  enabled: false
+  hostname: localhost
+  port: 3306
+  database: ezblocks
+  prefix: ''
+  username: root
+  password: ''
+integration:
+  tokenenchant_blockexplodeevent: true
+save_interval: 5
+blockbreakevent_priority: HIGHEST
+enabled_worlds:
+- world
+- world_nether
+- all
+survival_mode_only: true
+pickaxe_never_breaks: false
+only_track_below_y:
+  enabled: false
+  coord: 50
+pickaxe_counter:
+  enabled: true
+  useDisplayName: true
+  format: '&8[&c%blocks%&8]'
+command_options:
+  add:
+    give_rewards_on_add: true
+global_rewards:
+  default:
+    blocks_needed: 100
+    reward_commands:
+    - eco give %player% 100
+    - ezmsg &bCongrats on your first 100 blocks!
+interval_rewards:
+  default:
+    every: 100
+    reward_commands:
+    - eco give %player% 1
+    - ezmsg You mined 100 blocks!
+pickaxe_global_rewards:
+  default:
+    blocks_needed: 100
+    reward_commands:
+    - eco give %player% 1
+    - ezmsg &bCongrats You mined 100 blocks with this pickaxe!
+pickaxe_interval_rewards:
+  default:
+    every: 100
+    reward_commands:
+    - eco give %player% 1
+    - ezmsg You mined 100 blocks!
+blocks_broken_command_enabled: true
+blocks_broken_message: '&bYou have broken &e%blocksbroken%&b blocks!'
+material_blacklist:
+- DIRT
+- GRASS
+blacklist_is_whitelist: false
+tracked_tools:
+- WOOD_PICKAXE
+- STONE_PICKAXE
+- IRON_PICKAXE
+- GOLD_PICKAXE
+- DIAMOND_PICKAXE

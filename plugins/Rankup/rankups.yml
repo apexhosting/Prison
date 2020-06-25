@@ -1,0 +1,70 @@
+# this name can be equal to your rank name for simplicity,
+# eg "A" instead of "Aexample".
+BlockOne:
+  # the name of the rank in your permissions plugin
+  rank: 'BlockOne'
+  # the next rank a player can rank up to.
+  # this must be the name of the configuration section, not the rank name.
+  # for example, the name of this configuration section is "Aexample".
+  # if this is the last rank, you don't need this.
+  next: 'BlockTwo'
+  # List of requirements to go to the next rank
+  # (ie, this example will charge 1000 money to rankup from A to B)
+  # https://github.com/okx-code/Rankup3/wiki/Requirements
+  # custom requirements can also be added by other plugins.
+  requirements:
+    money: 10000
+  # What requirements players need to match to /rankup.
+  # this is optional - if you don't use it, it defaults to "all"
+  # n.b. if there are no requirements players will always be able to /rankup.
+  # all: all requirements
+  # any: at least one requirement
+  # one: only one requirement
+  # none: no requirements
+  operation: all
+  # the console will run these commands when a player ranks up
+  #commands:
+  # this will run when a player ranks up from A to B.
+  #- 'say {PLAYER} well done for ranking up from {OLD_RANK} to {RANK}!'
+BlockTwo:
+  rank: 'BlockTwo'
+  next: 'BlockThree'
+  requirements:
+    money: 25000
+BlockThree:
+  rank: 'BlockThree'
+  next: 'BlockFour'
+  requirements:
+      money: 50000
+BlockFour:
+  rank: 'BlockFour'
+  next: 'BlockFive'
+  requirements:
+    money: 100000
+BlockFive:
+  rank: 'BlockFive'
+  next: 'BlockSix'
+  requirements:
+    money: 200000
+BlockSix:
+  rank: 'BlockSix'
+  next: 'BlockSeven'
+  requirements:
+    money: 400000
+BlockSeven:
+  rank: 'BlockSeven'
+  next: 'BlockEight'
+  requirements:
+    money: 750000
+BlockEight:
+  rank: 'BlockEight'
+  next: 'BlockNine'
+  requirements:
+    money: 1000000
+BlockNine:
+  rank: 'BlockNine'
+  next: 'Free'
+  requirements:
+    money: 1500000
+Free:
+  rank: 'Free'

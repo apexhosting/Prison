@@ -1,0 +1,6 @@
+general:
+  name: cell-376
+  world: Prison
+  type: rent
+rent:
+  price: 8000.0

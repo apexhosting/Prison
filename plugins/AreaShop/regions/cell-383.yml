@@ -1,0 +1,6 @@
+general:
+  name: cell-383
+  world: Prison
+  type: rent
+rent:
+  price: 8000.0
